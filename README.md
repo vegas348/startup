@@ -1,2 +1,3 @@
 # startup
-A web collaboration platform for wannabe enterpreneurs build with expressjs/nodejs as backend and angularjs as front-end.
+A web collaboration platform for wannabe enterpreneurs built with expressjs/nodejs as back-end and angularjs as front-end.
+
